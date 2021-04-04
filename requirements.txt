@@ -1,0 +1,4 @@
+bs4
+requests
+pandas >= 0.17
+openpyxl >= 3.0.0
